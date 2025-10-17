@@ -1,17 +1,27 @@
 # 👋 Hello! I'm Shakarim Nurlan
 
-Welcome to my GitHub portfolio! I'm a passionate frontend developer constantly learning and building responsive web projects using HTML, CSS, JavaScript, and modern frameworks.
+Welcome to my GitHub portfolio! I'm a passionate frontend developer constantly learning and building responsive web projects using HTML, CSS, JavaScript, Dart, and modern frameworks.
 
-Here are some of the projects I've worked on:
+---
+
+## 🛠️ Tech Stack
+
+- HTML5 / CSS3 / JavaScript / Dart
+- Responsive Web Design
+- Git & GitHub
+- React.js (beginner)
+- VS Code, Chrome DevTools
+- Basic backend experience (Node.js, APIs, JSON handling)
 
 ---
 
 ## 🚀 Projects
 
 ### 🌍 [Travel_CV](https://github.com/JANurlan12/Travel_CV)
-- A personal travel-themed CV website
-- Built with HTML and CSS
-- Showcases layout and visual design skills
+- A full-stack travel-themed CV website
+- Built with HTML, CSS, JavaScript, and basic backend logic (form handling, routing)
+- Showcases both frontend design and backend integration
+- 📸 Includes project screenshots in the repository
 
 ---
 
@@ -19,13 +29,15 @@ Here are some of the projects I've worked on:
 - An updated version of the travel website
 - Improved structure and responsiveness
 - Focused on clean layout and visual hierarchy
+- 📸 Screenshots included to demonstrate layout and features
 
 ---
 
 ### 💻 [Laptop Review Home Page](https://github.com/JANurlan12/Laptop-Review-Home-Page)
 - A homepage design for a laptop review site
-- Practice project for modern layouts
-- HTML & CSS focused
+- HTML & CSS focused project
+- Practiced layout building and component structuring
+- 📸 Contains visual previews (images) of the design
 
 ---
 
@@ -33,6 +45,8 @@ Here are some of the projects I've worked on:
 - Clone of the Tesla homepage
 - Focused on design accuracy and responsive layout
 - Good practice of real-world design implementation
+- ✅ Dart used for scripting interactions
+- 📸 Includes screenshots of different screen sizes (responsive demo)
 
 ---
 

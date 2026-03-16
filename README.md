@@ -1,74 +1,70 @@
-👋 Hello! I'm Shakarim Nurlan
+# 👋 Hello! I'm Shakarim Nurlan
 
-Welcome to my GitHub portfolio! I'm a passionate frontend developer constantly learning and building responsive web projects using HTML, CSS, JavaScript, Dart, and modern frameworks.
+Welcome to my GitHub portfolio!  
+I'm a passionate frontend developer constantly learning and building responsive web projects using **HTML, CSS, JavaScript, Dart**, and modern frameworks.
 
-🛠️ Tech Stack
+---
 
-HTML5 / CSS3 / JavaScript / Dart
+## 🛠️ Tech Stack
+- HTML5 / CSS3 / JavaScript / Dart  
+- Responsive Web Design  
+- Git & GitHub  
+- React.js (beginner)  
+- VS Code, Chrome DevTools  
+- Basic backend experience (Node.js, APIs, JSON handling)  
 
-Responsive Web Design
+---
 
-Git & GitHub
+## 🚀 Projects
 
-React.js (beginner)
+### 🛒 [E-commerce Laptop (Frontend)](https://github.com/JANurlan12/E-commerce-Laptop)
+Responsive frontend layout for a laptop e-commerce website.  
+Built with **HTML, CSS, JavaScript**.  
+Focused on product layout, navigation UI, and user-friendly design.  
+📸 Screenshots included in the repo.
 
-VS Code, Chrome DevTools
+---
 
-Basic backend experience (Node.js, APIs, JSON handling)
+### 🌍 [Travel_CV](https://github.com/JANurlan12/Travel_CV)
+Full-stack travel-themed CV website.  
+Frontend + basic backend logic (form handling, routing).  
+Showcases both design and backend integration.  
+📸 Includes project screenshots.
 
-🚀 Projects
-🛒 E-commerce Laptop (Frontend)
+---
 
-A responsive frontend layout for a laptop e-commerce website
+### 🧭 [Travel v2](https://github.com/JANurlan12/Travel-v2-)
+Updated version of the travel website.  
+Improved structure and responsiveness.  
+Focused on clean layout and visual hierarchy.  
+📸 Screenshots included.
 
-Built using HTML, CSS, and JavaScript
+---
 
-Focused on product layout, navigation UI, and user-friendly design
+### 💻 [Laptop Review Home Page](https://github.com/JANurlan12/Laptop-Review-Home-Page)
+Homepage design for a laptop review site.  
+HTML & CSS focused project.  
+Practiced layout building and component structuring.  
+📸 Contains visual previews.
 
-📸 Screenshots included in the repo
+---
 
-🌍 Travel_CV
+### 🌦️ [Weather App](https://github.com/JANurlan12/weather_app)
+Weather forecast application.  
+Built with **Dart + Flutter**.  
+Responsive UI with dynamic backgrounds and icons.  
+📸 Demo screenshots included.
 
-A full-stack travel-themed CV website
+---
 
-Built with HTML, CSS, JavaScript, and basic backend logic (form handling, routing)
+### ⚡ [Tesla Website Clone](https://github.com/JANurlan12/Tesla-Website)
+Clone of Tesla homepage.  
+Focused on design accuracy and responsive layout.  
+✅ Dart used for scripting interactions.  
+📸 Includes responsive demo screenshots.
 
-Showcases both frontend design and backend integration
+---
 
-📸 Includes project screenshots in the repository
-
-🧭 Travel v2
-
-An updated version of the travel website
-
-Improved structure and responsiveness
-
-Focused on clean layout and visual hierarchy
-
-📸 Screenshots included to demonstrate layout and features
-
-💻 Laptop Review Home Page
-
-A homepage design for a laptop review site
-
-HTML & CSS focused project
-
-Practiced layout building and component structuring
-
-📸 Contains visual previews (images) of the design
-
-⚡ Tesla Website Clone
-
-Clone of the Tesla homepage
-
-Focused on design accuracy and responsive layout
-
-Good practice of real-world design implementation
-
-✅ Dart used for scripting interactions
-
-📸 Includes screenshots of different screen sizes (responsive demo)
-
-📧 Email: shaqarimnurlan31@gmail.com
-
-📱 Phone: +976 95440440 95637707
+## 📫 Contact
+- Email: **shaqarimnurlan31@gmail.com**  
+- Phone: **+976 95440440 / 95637707**

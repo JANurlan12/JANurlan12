@@ -71,4 +71,4 @@ Good practice of real-world design implementation
 
 📧 Email: shaqarimnurlan31@gmail.com
 
-📱 Phone: +77071767870
+📱 Phone: +976 95440440 95637707
